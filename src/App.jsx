@@ -23,6 +23,6 @@ const App = memo(() => {
   )
 
 });
-
+console.log('dev');
 
 export default App;
